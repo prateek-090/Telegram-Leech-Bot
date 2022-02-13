@@ -2,6 +2,8 @@
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram).
 
+https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started/tree/main
+
 ## Working Leecher Group:
 #### This is my [Group](http://t.me/discovery_mirror). You can test my bot and leech something.
 <a href="https://t.me/discovery_mirror"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
